@@ -22,8 +22,8 @@ This project is a hands-on exploration of building an AI research agent from scr
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/ai-research-agent.git
-cd ai-research-agent
+git clone https://github.com/farrelsp/agent-from-scratch.git
+cd agent-from-scratch
 pip install -r requirements.txt
 ```
 
